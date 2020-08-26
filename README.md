@@ -1,2 +1,2 @@
 # myCodes
-Some training codes in R
+Some codes developed by me.
