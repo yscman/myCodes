@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Consulting/Political Analysis - Dashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learning_courses/Hands-On-Deep-Learning-for-Finance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learning_courses/Learn_Algorithmic_Trading_Fundamentals_of_Algorithmic_Trading" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learning_courses/Machine-Learning-for-Finance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learning_courses/Mastering-Pandas-for-Finance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learning_courses/Plotly-Dashboards-with-Dash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learning_courses/Talk_Python_Course/data-driven-web-apps-with-flask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/r_codes" vcs="Git" />
+  </component>
+</project>
