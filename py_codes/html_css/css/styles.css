@@ -1,0 +1,22 @@
+body{
+    background-color: purple;
+}
+
+#flora_kitchen{
+    color: yellow;
+
+}
+
+#training{
+    color: yellow;
+    font-size: 12px
+}
+
+#gelato{
+    color: orange;
+    font-size: 12px
+}
+
+.bold{
+    font-weight: bold;
+}
